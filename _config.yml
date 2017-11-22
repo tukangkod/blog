@@ -11,6 +11,7 @@ description:         'Bertukang dengan kod'
 url:                 http://tukangkod.github.io
 baseurl:             ''
 paginate:            5
+google_analytics:	 UA-110057158-1
 
 # About/contact
 author:
