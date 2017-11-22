@@ -5,9 +5,9 @@ permalink:           pretty
 # relative_permalinks: true
 
 # Setup
-title:               TukangKod.github.io
-tagline:             'Eruditionis Itinere'
-description:         'Bertukang dengan kod'
+title:               Eruditionis Itinere
+tagline:             'tukangkod.github.io'
+description:         'A journey of learning and growing'
 url:                 http://tukangkod.github.io
 baseurl:             ''
 paginate:            5
