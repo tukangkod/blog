@@ -8,8 +8,8 @@ permalink:           pretty
 title:               Eruditionis Itinere
 tagline:             'tukangkod.github.io'
 description:         'A journey of learning and growing'
-url:                 https://tukangkod.github.io/blog
-baseurl:             ''
+url:                 https://tukangkod.github.io
+baseurl:             'blog'
 paginate:            5
 google_analytics:	 UA-110057158-1
 
